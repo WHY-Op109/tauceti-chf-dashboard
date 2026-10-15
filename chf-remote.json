@@ -1,0 +1,7 @@
+{
+ "schema": "chf-dashboard-viewer/v3",
+ "read_only": true,
+ "data_url": "https://raw.githubusercontent.com/WHY-Op109/tauceti-chf-dashboard/status/",
+ "owner": "WHY-Op109",
+ "dashboard": "tauceti-chf-dashboard"
+}
